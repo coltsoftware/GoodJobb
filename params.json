@@ -1,0 +1,6 @@
+{
+  "name": "Goodjobb",
+  "tagline": "Alternative to Android's Jobb tool",
+  "body": "#Good Jobb\r\n\r\nTrouble with Android's Jobb tool? Or just need more control over compression.\r\n\r\nAvailable on [Chocolatey](https://chocolatey.org/packages/goodjobb)\r\n\r\n```\r\nGood Jobb -- Create OBB files for use on Android\r\n\r\n -d <directory> Use <directory> as input for OBB files\r\n -o <filename>  Write OBB file out to <filename>\r\n -o <directory> Write OBB file out to <directory>\r\n -v             Verbose mode\r\n -h             Help; this usage screen\r\n -pn <package>  Package name for OBB file\r\n -pv <version>  Package version for OBB file\r\n -patch         Is patch not main\r\n\r\n0% compression options (repeatable)\r\n -0e <extension> Do not compress this extension. e.g. -0e .abc\r\n -0r <regex>     Do not compress files matching this regex. e.g. -0r .*\\\\file.abc\r\n```\r\n\r\nCompile yourself, or download [GoodJobb.jar](https://github.com/westonized/GoodJobb/raw/master/GoodJobb.jar) and use like this:\r\n\r\n````java -jar GoodJobb.jar <args as detailed above>````",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
